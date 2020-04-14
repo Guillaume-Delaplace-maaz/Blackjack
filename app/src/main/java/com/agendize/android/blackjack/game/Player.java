@@ -1,5 +1,7 @@
 package com.agendize.android.blackjack.game;
 
+import java.util.List;
+
 public class Player {
     String nom;
     int argent;
@@ -54,4 +56,6 @@ public class Player {
         }
     }
 
+    public List getCards() {
+    }
 }
