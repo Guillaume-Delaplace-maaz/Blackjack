@@ -10,4 +10,4 @@ public class Deck {
         cards = new ArrayList<>(52);
     }
 }
-}
+
