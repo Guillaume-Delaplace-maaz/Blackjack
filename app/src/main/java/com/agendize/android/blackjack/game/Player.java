@@ -25,7 +25,7 @@ public class Player {
         if(somme > 21){
             int nbAs = 0;
             for (int i = 0;i<5;i++){
-                if(BlackJack.PaquetCartes.valeurCarte(joueur.main[i])==11){
+                if(com.agendize.android.blackjack.game.(joueur.main[i])==11){
                     nbAs ++;
                 }
             }
